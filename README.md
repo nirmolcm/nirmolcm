@@ -5,7 +5,7 @@
 <h6>I'm web developer and software developer </h6>
 
 shampur,palpara hi school rod,dhaka-1204,bangladesh.</br>
-mail: nirmolcm09@gmail.com
+mail: nirmolcm09@gmail.com</br>
 phone: 01671638912
 
 Skills: VUE JS / REACT / JS / HTML / CSS
