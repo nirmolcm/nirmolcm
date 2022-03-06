@@ -4,7 +4,7 @@
 <h1 align="center">Hello I'm  Nirmol Cm</h>
 <h6>I'm web developer and software developer </h6>
 
-shampur,palpara hi school rod,dhaka-1204,bangladesh.
+shampur,palpara hi school rod,dhaka-1204,bangladesh.</br>
 mail: nirmolcm09@gmail.com
 phone: 01671638912
 
